@@ -1,4 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto+Slab:wght@100..900&display=swap');
+
 body{
+    font-family: "Agdasima", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     margin: 0;
     font-size: 28px;
     display: flex;
