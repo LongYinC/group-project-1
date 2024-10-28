@@ -63,6 +63,30 @@ footer {
     background-color: lightblues;
   }
 
+  a:link{
+    color: #6900ff;
+  }
+
+  a:visited {
+    color: red;
+  }
+  
+  a:focus {
+    text-decoration: none;
+    background: lightblue;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    background: yellow;
+  }
+  
+  a:active {
+    background: #6900ff;
+    color: #cdfeaa;
+  }
+  
+
 
 @media only screen and (max-width: 600px){
     img{
