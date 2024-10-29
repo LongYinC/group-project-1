@@ -16,11 +16,9 @@ body p, body h3, body h4, body ul{
 }
 
 img{
-    display: flex;
-    margin: auto;
+    margin: 75px;
     max-width: 100%;
     height: auto;
-    justify-content: center;
 }
 
 h1{
