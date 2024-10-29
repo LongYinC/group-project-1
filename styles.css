@@ -14,8 +14,7 @@ body{
 iframe{
     width: 800px;
     height: 500px;
-    display: flex;
-    justify-content: center;
+    
 }
 
 body p, body h3, body h4, body ul{
