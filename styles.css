@@ -12,11 +12,10 @@ body{
 }
 
 iframe{
-    width: 400px;
-    height: 400px;
+    width: 800px;
+    height: 500px;
     display: flex;
     justify-content: center;
-    align-item: center;
 }
 
 body p, body h3, body h4, body ul{
