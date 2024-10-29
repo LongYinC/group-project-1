@@ -17,12 +17,16 @@ body p, body h3, body h4, body ul{
     margin-right: 50px;
 }
 
-
+img{
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+}
 
 .image{
     display: flex;
     justify-content: center;
-    gap: 1px:
+    gap: 5px:
 }
 
 h1{
