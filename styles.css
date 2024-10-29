@@ -16,6 +16,8 @@ iframe{
     height: 100%;
     display: flex;
     justify-content: center;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 body p, body h3, body h4, body ul{
