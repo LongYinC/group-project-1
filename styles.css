@@ -30,7 +30,8 @@ img{
 }
 
 .image{
-    margin-left: 215px;
+    display: flex;
+    justify-content: center;
 }
 
 h1{
