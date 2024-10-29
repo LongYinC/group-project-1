@@ -12,10 +12,9 @@ body{
 }
 
 iframe{
-    width: 50%;
-    height: 50%;
-    margin-left: 350px;
-    margin-right: 50px;
+    width: 315px;
+    height: 400px;
+    align-item: center;
 }
 
 body p, body h3, body h4, body ul{
