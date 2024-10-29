@@ -13,8 +13,8 @@ body{
 
 body p, body h3, body h4, body ul{
     margin: 5px;
-    margin-left: 65px;
-    margin-right: 65px;
+    margin-left: 75px;
+    margin-right: 75px;
 }
 
 img{
@@ -24,7 +24,7 @@ img{
 }
 
 .shift{
-    margin-left: 230px;
+    margin-left: 225px;
 }
 
 h1{
