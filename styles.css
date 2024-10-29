@@ -11,7 +11,7 @@ body{
     flex-direction: column;
 }
 
-body p, body h3, body h4{
+body p, body h3, body h4, body ul{
     margin: 5px;
 }
 
