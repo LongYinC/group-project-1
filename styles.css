@@ -21,6 +21,11 @@ img{
     height: auto;
 }
 
+.SUIS, N-buna{
+    display: flex;
+    justify-content: center;
+}
+
 h1{
     display: flex;
     justify-content: center;
