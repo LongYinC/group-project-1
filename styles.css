@@ -16,7 +16,7 @@ body p, body h3, body h4, body ul{
 }
 
 img{
-    margin: 75px;
+    margin: auto;
     max-width: 100%;
     height: auto;
 }
