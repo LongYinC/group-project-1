@@ -11,6 +11,11 @@ body{
     flex-direction: column;
 }
 
+iframe{
+    width: 60%;
+    height:60%;
+}
+
 body p, body h3, body h4, body ul{
     margin: 5px;
     margin-left: 50px;
