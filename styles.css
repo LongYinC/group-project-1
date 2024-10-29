@@ -21,9 +21,8 @@ img{
     height: auto;
 }
 
-.SUIS, N-buna{
-    display: flex;
-    justify-content: center;
+.shift{
+    margin-left: 30px;
 }
 
 h1{
