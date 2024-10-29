@@ -14,7 +14,7 @@ body{
 iframe{
     width: 800px;
     height: 400px;
-    margin-left: 255px;
+    margin-left: 275px;
     display: flex;
     justify-content: center;
 }
@@ -32,7 +32,7 @@ img{
 }
 
 .image{
-    margin-left: 315px;
+    margin-left: 325px;
 }
 
 h1{
