@@ -38,15 +38,13 @@ img{
 }
 
 .suis{
-    float: left;
     padding: 1px;
-    align-item: center;
+    text-align: center;
 }
 
 .n-buna{
-    float: left;
     padding: 1px;
-    align-item: center;
+    text-align: center;
 }
 
 h1{
