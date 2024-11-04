@@ -32,7 +32,21 @@ img{
 }
 
 .image{
-    margin-left: 320px;
+    /*margin-left: 320px;*/
+    display: flex;
+    justify-content: center;
+}
+
+.suis{
+    float: left;
+    padding: 10px;
+    align-item: center;
+}
+
+.n-buna{
+    float: left;
+    padding: 10px;
+    align-item: center;
 }
 
 h1{
